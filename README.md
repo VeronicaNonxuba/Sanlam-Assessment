@@ -1,11 +1,11 @@
 # Sanlam-Assessment
 # Changes
- Moved Withdrawal class to a seperate file for readability
- Moved logic to a seperate Class BankAccountService - SOLID
- Created an interface for BankAccountService - SOLID
- Injected interface into BankAccountController - SOLID
- Implemented Validations
- Implemented Exception handling
- Used Lombok to minize code
- Changed Withdrawal class to a record instead of class to reduce complexity
+ Moved Withdrawal class to a seperate file for readability__
+ Moved logic to a seperate Class BankAccountService - SOLID__
+ Created an interface for BankAccountService - SOLID__
+ Injected interface into BankAccountController - SOLID__
+ Implemented Validations__
+ Implemented Exception handling__
+ Used Lombok to minize code__
+ Changed Withdrawal class to a record instead of class to reduce complexity__
  Defined constants for the SQL queries for readaility and ease of change - DRY
