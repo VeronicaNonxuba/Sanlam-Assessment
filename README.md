@@ -9,3 +9,4 @@
  Used Lombok to minize code<BR/>
  Changed Withdrawal class to a record instead of class to reduce complexity<BR/>
  Defined constants for the SQL queries for readaility and ease of change - DRY
+ Extracted Validations to a seperate method - SOLID
